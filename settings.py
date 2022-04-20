@@ -1,2 +1,6 @@
 WIDTH = 1440
 HEIGHT = 720
+BLACK = "black"
+RED = "red"
+GREEN = "green"
+MAIN_BACKGROUND_COLOR = BLACK
