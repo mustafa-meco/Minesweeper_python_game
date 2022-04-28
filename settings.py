@@ -1,5 +1,6 @@
 WIDTH = 1440
 HEIGHT = 720
+GRID_SIZE = 6
 BLACK = "black"
 RED = "red"
 GREEN = "green"
