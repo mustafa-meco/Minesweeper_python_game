@@ -5,3 +5,4 @@ BLACK = "black"
 RED = "red"
 GREEN = "green"
 MAIN_BACKGROUND_COLOR = BLACK
+MINES_COUNT=(GRID_SIZE ** 2) // 4
