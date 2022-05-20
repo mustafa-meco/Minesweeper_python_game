@@ -6,5 +6,7 @@ BLACK = "black"
 RED = "red"
 GREEN = "green"
 WHITE = "white"
+ORANGE = "orange"
+GRAY = "gray"
 MAIN_BACKGROUND_COLOR = BLACK
 MINES_COUNT=CELL_COUNT // 4
